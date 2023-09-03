@@ -21,7 +21,8 @@
   "author": "Sergio R. Vidales Perez",
   "license": "ISC",
   "devDependencies": {
-    "nodemon": "^2.0.3"
+    "nodemon": "^2.0.3",
+    "sequelize-typescript": "^1.1.0"
   },
   "dependencies": {
     "dotenv": "^8.2.0",
