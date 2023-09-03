@@ -13,7 +13,11 @@
     "type": "git",
     "url": "git@github.com:srvidales/shopicity.git"
   },
-  "keywords": ["express", "mysql", "e-commerce"],
+  "keywords": [
+    "express",
+    "mysql",
+    "e-commerce"
+  ],
   "author": "Sergio R. Vidales Perez",
   "license": "ISC",
   "devDependencies": {
