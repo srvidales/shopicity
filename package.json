@@ -19,7 +19,7 @@
     "e-commerce"
   ],
   "author": "Sergio R. Vidales Perez",
-  "license": "ISC",
+  "license": "MIT",
   "devDependencies": {
     "nodemon": "^2.0.3",
     "sequelize-typescript": "^1.1.0"
