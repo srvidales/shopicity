@@ -52,6 +52,7 @@ npm start
 
 ## Contributing
 - [Sergio Vidales Perez](mailto://srvidales@gmail.com)
+
 Starter Code:
 - [George](mailto://gcyoosf@gmail.com)
 - [Xander Rapstine](mailto://xanderrapstine@gmail.com)
