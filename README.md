@@ -53,12 +53,12 @@ npm start
 ## Contributing
 - [Sergio Vidales Perez](mailto://srvidales@gmail.com)
 Starter Code:
-[George](mailto://gcyoosf@gmail.com)
-[Xander Rapstine](mailto://xanderrapstine@gmail.com)
-[Xandromus](mailto://xanderrapstine@gmail.com)
-[dependabot-bot](mailto://49699333+dependabot[bot]@users.noreply.github.com)
-[georgeyoo](mailto://<gcyoosf@gmail.com>)
-[rxtATX](mailto://rachel.thiim@gmail.com)
+- [George](mailto://gcyoosf@gmail.com)
+- [Xander Rapstine](mailto://xanderrapstine@gmail.com)
+- [Xandromus](mailto://xanderrapstine@gmail.com)
+- [dependabot-bot](mailto://49699333+dependabot[bot]@users.noreply.github.com)
+- [georgeyoo](mailto://<gcyoosf@gmail.com>)
+- [rxtATX](mailto://rachel.thiim@gmail.com)
 
 ## Tests
 Currently, this project does not include any tests.
